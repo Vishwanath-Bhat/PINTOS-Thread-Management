@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER Thierry Sans <thierry.sans@utoronto.ca>
+MAINTAINER Vishwanath Bhat <vishwasbhat2003@gmail.com>
 
 RUN apt-get update \
  && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
